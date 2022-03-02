@@ -1,13 +1,13 @@
 {
      "name": "Splashy-Studio-5",
-     "version": "5.1",
+     "version": "5.2",
      "description": "Splashy Studio 5.0 source code",
      "main": "main.js",
      "scripts": {
           "start": "electron .",
           "pack": "electron-builder --dir",
           "dist": "electron-builder",
-          "build": "electron-packager . SS5.1"
+          "build": "electron-packager . SS5.2"
      },
      "build": {
           "appId": "your.id",
